@@ -1,5 +1,5 @@
 ### Assignment-7
-This Assignment covers advance concepts of the JavaScript by introducing function, type of functions, event handling. The assignment has been divided into 5 different parts. All parts are unrelated yet build upon the function previous concepts.
+This Assignment covers advance concepts of the JavaScript by introducing function, type of functions, event handling. The assignment has been divided into 5 different parts. All parts are unrelated yet build upon the previous concepts.
 
 #### Technologies
 1. HTML
